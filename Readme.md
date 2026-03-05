@@ -35,8 +35,8 @@ This project explores three fundamental areas of computing through code demonstr
 ST4015CMD/
 │
 ├── 📂 task1_encoding/
-│   ├── task_demo.py          # ASCII, Base64 & URL encoding demos
-│   └── sql_injection_demo.py     # How URL encoding blocks SQL injection
+│   ├── demo_encoding.py          # ASCII, Base64 & URL encoding demos
+│   └── demo_sql.py     # How URL encoding blocks SQL injection
 │
 ├── 📂 task2_seating/
 │   ├── BruteForce.py            # Tries every permutation — O(n!)
@@ -44,8 +44,8 @@ ST4015CMD/
 │
 ├── 📂 task3_database/
 │   ├── Normalization.sql                # Normalised table structure (1NF→3NF)
-│   ├── task4_basic_operations.sql           # Sample club membership data
-│   └── task5_join_query.sql               # SELECT, INSERT & JOIN operations
+│   ├── basic_operations.sql           # Sample club membership data
+│   └── join_query.sql               # SELECT, INSERT & JOIN operations
 │
 ├── docker-compose.yml            # MySQL 8.0 container setup
 └── README.md
@@ -136,16 +136,7 @@ JOIN Club c    ON m.ClubID    = c.ClubID
 ORDER BY m.JoinDate;
 ```
 
----
 
-## 📚 Key References
-
-- Josefsson, S. (2006). *RFC 4648 — Base64 Data Encodings.* IETF.
-- Berners-Lee et al. (2005). *RFC 3986 — URI Generic Syntax.*
-- Silver, E. A. (2004). An overview of heuristic solution methods. *JORS*, 55(9).
-- Uwagbole et al. (2016). Numerical encoding to tame SQL injection attacks. *IEEE.*
-
----
 
 <div align="center">
 <sub>ST4015CMD Coursework · Coventry University · 2026</sub>
