@@ -3,12 +3,12 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Submitted-success?style=for-the-badge)
+
 
 
 | | |
 |---|---|
-| 👤 **Author** | Sanjok Rai |
+| 👤 **Student** | Sanjok Rai |
 | 🆔 **Student ID** | 250452 / 17107765 |
 | 👨‍🏫 **Tutor** | Mr. Rupak Rajbanshi |
 | 📅 **Submitted** | 1st March 2026 |
